@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package ArquivoTesteFile;
 
 import java.io.File;
